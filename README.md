@@ -1,4 +1,4 @@
-# Mijn Boederij project done by required from Creat-Studio in Intern time. <br>
+# Intern project - Mijn Boederij. <br>
 
 The project use materialize for UI.
 <br>
